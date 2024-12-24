@@ -22,7 +22,7 @@ This project focuses on analyzing customer satisfaction based on their engagemen
 1. Clone the repository:
    ```bash
    git clone https://github.com/wendirad/weekTwo.git
-   cd customer-satisfaction-analysis
+   cd weekTwo
    ```
 
 2. Install required Python libraries:
